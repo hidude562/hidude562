@@ -1,0 +1,3 @@
+- Hi I'm hidude562
+- I like to integrate mathamatics into computer science
+- I’m currently learning Java and am aiming to be a backend developer
