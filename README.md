@@ -1,4 +1,4 @@
-LOOK AT MY WEBSITE PLS - nathanmills.dev
+# LOOK AT MY WEBSITE PLS - nathanmills.dev
 
 - Hi I'm hidude562
 - I like to integrate mathematics into computer science
