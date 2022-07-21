@@ -1,5 +1,5 @@
-# LOOK AT MY WEBSITE PLS - nathanmills.dev
+<!-- This is my README.MD file for my github, enjoy -->
 
-- Hi dude, I'm hidude562
-- I like to integrate mathematics into computer science
-- I’m currently learning Java and am aiming to be a backend developer
+# Hi dude! 👋 I'm hidude562
+
+1
