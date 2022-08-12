@@ -8,7 +8,7 @@ I'm a 10th grader. I like to program, 3d model and do other stuff.
 
 I'm currently devoloping my website, check it out: Website - nathanmills.dev
 
-I'm trying to think of ideas to devolop on my github (that aren't too impossible to make)
+I'm also trying to think of ideas to devolop on my github (that aren't too impossible to make)
 
 ⭐️ From [hidude562](https://github.com/hidude562)
 
