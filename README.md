@@ -1,6 +1,6 @@
 <!-- This is my README.MD file for my github, enjoy -->
 
-<img src="hidude.PNG" alt="drawing" width="100%"/>
+<img src="bannerL.PNG" alt="drawing" width="100%"/>
 
 # Hi dude! 👋 I'm hidude562: Website - nathanmills.dev
 
