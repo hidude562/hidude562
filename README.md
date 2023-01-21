@@ -6,7 +6,7 @@
 
 ## IMPORTANT: I will likely not be <i>too</i> active on github until the next summer break, so only expect feature additions about 1 time a week give or take.
 
-I'm a 10th grader. I like to program, 3d model and do other stuff.
+I'm a 10th grader. I like to program, 3d model, make music, and do other stuff.
 
 ![](https://github-readme-stats.vercel.app/api?username=hidude562&show_icons=true)
 
