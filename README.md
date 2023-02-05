@@ -2,7 +2,7 @@
 
 <img src="bannerL.PNG" alt="drawing" width="100%"/>
 
-# Hi dude! 👋 I'm hidude562: Website - nathanmills.dev
+# Hi dude! 👋 I'm hidude562:
 
 ## IMPORTANT: I will likely not be <i>too</i> active on github until the next summer break, so only expect feature additions about 1 time a week give or take.
 
