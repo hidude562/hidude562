@@ -1,6 +1,7 @@
 <img src="bannerL.PNG" alt="drawing" width="100%"/>
 
 # hidude562
+Check out my gitlab (I'm active there too) https://gitlab.com/hidude5622
 I'm a highschooler with probably too much free time. I enjoy programming, 3d modeling, writing music, and doing other things
 
 ## Cool People You Should Check Out
