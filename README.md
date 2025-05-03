@@ -9,7 +9,7 @@ My boy [Pyro569](https://github.com/Pyro569)
 
 ![](https://github-readme-stats.vercel.app/api?username=hidude562&show_icons=true)
 
-I'm currently probably devoloping my website, check it out: nathanmills.dev
+I'm currently probably devoloping my website, check it out: nathanmills.dev (WILL FIX BY 2030 HOPEFULLY)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidude562&theme=dark)](https://github.com/hidude562/github-readme-stats)
 
