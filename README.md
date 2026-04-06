@@ -1,8 +1,12 @@
 <img src="bannerL.PNG" alt="drawing" width="100%"/>
 
 # hidude562
-Check out my gitlab (I have some things there) https://gitlab.com/hidude5622
-I'm a college studen.
+Check out my gitlab (I have a couple things there) https://gitlab.com/hidude5622
+I'm a college student at NKU for software engineering, but I mostly do AI rnd (specifically AI music things).
+
+Working on ml model to arrange music -> mxl (sheet music)
+
+pls 5090 🥺🥺
 
 ## Cool People You Should Check Out
 My boy [tyler](https://github.com/KobiSteve07)
