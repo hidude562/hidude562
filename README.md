@@ -1,7 +1,7 @@
 <img src="bannerL.PNG" alt="drawing" width="100%"/>
 
 # hidude562
-Check out my gitlab (I have a couple things there) https://gitlab.com/hidude5622
+I mostly commit to a local forgejo server now. Also check out my gitlab (I have a couple things there) https://gitlab.com/hidude5622
 I'm a college student at NKU for software engineering, but I mostly do AI rnd (specifically AI music things).
 
 Working on ml model to arrange music -> mxl (sheet music)
