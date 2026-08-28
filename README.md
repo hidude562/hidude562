@@ -6,7 +6,7 @@ I'm a college student at NKU for software engineering, but I mostly do AI rnd (s
 
 Working on ml model to arrange music -> mxl (sheet music)
 
-pls 5090 🥺🥺
+shout out to nku for the free compute (all my homies hate vast)
 
 ## Cool People You Should Check Out
 My boy [tyler](https://github.com/KobiSteve07)
