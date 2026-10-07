@@ -1,8 +1,8 @@
 <img src="bannerL.PNG" alt="drawing" width="100%"/>
 
 # hidude562
-I mostly commit to a local forgejo server now. Also check out my gitlab (I have a couple things there) https://gitlab.com/hidude5622
-I'm a college student at NKU for software engineering, but I mostly do AI rnd (specifically AI music things).
+I mostly commit to a local forgejo server now.  https://gitlab.com/hidude5622
+I mostly do AI rnd (specifically AMT / omr things).
 
 Working on arc-agi-3 competiton (god save me)
 
